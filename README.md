@@ -21,3 +21,13 @@ Este proyecto en **Python** descarga datos reales del **Banco Mundial** y compar
 
 ## Fuente de datos
 - **Banco Mundial API**: datos oficiales de PIB per cápita e Inflación
+
+
+---
+
+## Ejecutar en Google Colab
+
+Si prefieres correrlo de forma interactiva sin descargar nada, abre el notebook en Colab con este botón:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sebaasap/analisis-economico-pib-inflacion-1960-2023/blob/main/proyecto_economia.ipynb)
+
