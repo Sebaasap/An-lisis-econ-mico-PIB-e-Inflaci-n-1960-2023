@@ -96,8 +96,8 @@ class AnalisisEconomico:
         plt.title(f"Evolución de {variable}")  # Título del gráfico
         plt.xlabel("Año")                      # Eje X
         plt.ylabel(variable)                   # Eje Y
-        plt.legend()                           # Muestra bombres de paises
-        plt.show()                             # Muest rola gráfica
+        plt.legend()                           # Muestra nombres de paises
+        plt.show()                             # Muestro la gráfica
 
     def estadisticas_numpy(self, df, variable):
         """Saca estadísticas básicas con Numpy y las imprime."""
