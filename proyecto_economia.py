@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1yK8TE0ENxzsrouYvj9XEEeG07go15IJV
 """
 
-#Propuesta Final uniendo todo
 
 
 # PROGRAMA DE ANÁLISIS ECONÓMICO: PIB e Inflación de Colombia, México y USA durante 1960 al 2023
