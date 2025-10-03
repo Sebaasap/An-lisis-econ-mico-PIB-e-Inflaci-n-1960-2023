@@ -1,1 +1,1 @@
-# An-lisis-econ-mico-PIB-e-Inflaci-n-1960-2023
+# Analisis-economico-PIB-e-Inflacion-1960-2023
