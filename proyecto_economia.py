@@ -162,4 +162,4 @@ def main():
 
 # Esto se asegura de que el programa arranque solo si lo ejecutamos directo
 if __name__ == "__main__":
-    main() # Lama a la función principal cuando se ejecuta el programa
+    main() # Llama a la función principal cuando se ejecuta el programa
